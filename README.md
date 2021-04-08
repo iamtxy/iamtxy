@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iamtxy
 - 👀 I’m interested in girls.
 - 🌱 I’m currently learning web crawler
-- 💞️ I’m looking to collaborate on fun project that relates to cut/pretty girls. 
+- 💞️ I’m looking to collaborate on fun project that relates to cute/pretty girls. 
 - 📫 How to reach me: try not to. 
 
 <!---
